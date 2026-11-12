@@ -1,0 +1,7 @@
+employee_id,name,manager_id
+E1,总监甲,E2
+E2,总监乙,E1
+E3,经理丙,E1
+E4,经理丁,E2
+E5,销售戊,E3
+E6,销售己,E4

@@ -20,6 +20,9 @@ test-results/
 *.tar
 *.gz
 *.db
+
+# runtime working data (ingested CSVs)
+/data/
 *.db-wal
 *.db-shm
 *.db-journal
